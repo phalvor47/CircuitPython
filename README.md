@@ -2,7 +2,7 @@
 
 # LED Blink
 
-### What I learnned
+### What I learned
 * I learned how to create a document in MU Editor.
   * To run a document, it must be named either main.py or code.py.
 * I learned how to import libraries in Circuit Python
