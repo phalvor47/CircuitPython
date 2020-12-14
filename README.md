@@ -4,6 +4,7 @@
 
 ### What I learned
 * I learned how to create a document in MU Editor.
+<<<<<<< HEAD
 	* To run a document, it must be named either main.py or code.py. 
 * I learned how to import libraries in Circuit Python
 	* You write import and then the library's name at the top of your file.
