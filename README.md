@@ -14,7 +14,7 @@ Credit: [Fritzing](https://learn.adafruit.com/circuitpython-digital-inputs-and-o
 
 # Servo
 
-### What I learnned
+### What I learned
 * I learned how to troubleshoot with friends.
 	* I had never used a PWM pin before so I asked my friend Lucas Fuller for some help. He explained it and I implemented it into my code
 * I learned what Capacitive Touch is.
@@ -25,7 +25,7 @@ Credit: Dr. Shields
 
 # LCD
 
-### What I learnned
+### What I learned
 * I learned how to use a LCD with CircuitPython.
         * I learned to wire it up and figure out which libraries to use.
 * I expanded my knowledge on Capacitive touch.
@@ -35,3 +35,15 @@ Credit: Dr. Shields
 We connected wires to this backpack with connected them to the LCD. This made the process a lot simpler.
 
 Credit: Rasberry Pi Spy
+
+# Photointerrupter
+
+### What I learned
+* I learned how to wire up a photointerrupter.
+        * The internet helped a lot here since I had never wire one up before. 
+* I expanded my knowledge on LCDs.
+
+<img src="Images/photointerrupterimage.jpg">
+This image helped me undertand a photointerrupter. Mine has an extra but its connected to the positive pin by one wire.
+
+Credit: 14core.com
