@@ -23,4 +23,14 @@ Credit: [Fritzing](https://learn.adafruit.com/circuitpython-digital-inputs-and-o
 <img src="Images/ServoCapacitiveTouchFritzing.png">
 Credit: Dr. Shields
 
+# LCD
 
+### What I learnned
+* I learned how to use a LCD with CircuitPython.
+        * I learned to wire it up and figure out which libraries to use.
+* I expanded my knowledge on Capacitive touch.
+* I learned how to use the internet to figure out coding problems.
+
+<img src="Images/lcdbackpack.jpg">
+We connected wires to this backpack with connected them to the LCD. This made the process a lot simpler.
+Credit: Rasberry Pi Spy
