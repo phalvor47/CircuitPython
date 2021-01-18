@@ -33,4 +33,5 @@ Credit: Dr. Shields
 
 <img src="Images/lcdbackpack.jpg">
 We connected wires to this backpack with connected them to the LCD. This made the process a lot simpler.
+
 Credit: Rasberry Pi Spy
