@@ -40,7 +40,7 @@ Credit: Rasberry Pi Spy
 
 ### What I learned
 * I learned how to wire up a photointerrupter.
-        * The internet helped a lot here since I had never wire one up before. 
+	* The internet helped a lot here since I had never wire one up before. 
 * I expanded my knowledge on LCDs.
 
 <img src="Images/photointerrupterimage.jpg">
