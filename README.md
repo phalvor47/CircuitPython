@@ -69,4 +69,14 @@ Credit: Miles Kershner
 
 Credit: Miles Kershner
 
+# Fancy LED
+
+### What I learned
+* I expand my knowledge on classes, objects, and modules. Also, I expanded my knowledge on LEDs.
+	* I looked at pass assignments and had help from my friend Graham.
+
+<img src="Images/FancyLEDdiagram.png">
+
+Credit: Graham Lenert
+
 
