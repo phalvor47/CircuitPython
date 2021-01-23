@@ -27,12 +27,12 @@ Credit: Dr. Shields
 
 ### What I learned
 * I learned how to use a LCD with CircuitPython.
-        * I learned to wire it up and figure out which libraries to use.
+	* I learned to wire it up and figure out which libraries to use.
 * I expanded my knowledge on Capacitive touch.
 * I learned how to use the internet to figure out coding problems.
 
 <img src="Images/lcdbackpack.jpg">
-We connected wires to this backpack with connected them to the LCD. This made the process a lot simpler.
+We connected wires to this backpack which connected them to the LCD. This made the process a lot simpler.
 
 Credit: Rasberry Pi Spy
 
@@ -47,3 +47,13 @@ Credit: Rasberry Pi Spy
 This image helped me undertand a photointerrupter. Mine has an extra but its connected to the positive pin by one wire.
 
 Credit: 14core.com
+
+# Distance Sensor
+
+### What I learned
+* I learned how to use a distance sensor with Circuit Python.
+	* My friend Miles helped me with all the problems I had!
+
+<img src="Images/distancesensordiagram.png">
+
+Credit: Miles Kershner
