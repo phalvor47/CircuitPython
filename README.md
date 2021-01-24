@@ -61,7 +61,7 @@ Credit: Miles Kershner
 # Class, Objects, and Modules
 
 ### What I learned
-* I learned how to what classes, objects, and modules are in Circuit Python.
+* I learned what classes, objects, and modules are and how to use them in Circuit Python.
 	* My friend Miles answered some questions I had as well as helped me on this assignment.
 * I expanded my knowledge on LEDs.
 
